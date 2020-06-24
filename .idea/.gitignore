@@ -1,0 +1,17 @@
+*.class
+# Package Files #
+*.log
+.idea
+*.iml
+*.war
+*.ear
+*.jar
+.project
+.settings
+.classpath
+target
+logs
+node_modules
+.springBeans
+LOG_FILE_IS_UNDEFINED
+LOG_FILE_IS_UNDEFINED*
